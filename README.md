@@ -7,3 +7,5 @@ New information goes here
 Old info comes here 
 
 Making changes
+
+Doing hard things
